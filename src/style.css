@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "MyFont";
+  src: url(./CoffeCake.ttf), url(./CoffeCake.otf);
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: rgb(241, 241, 241);
+  font-family: "MyFont";
+  font-size: 1.25rem;
+  background: url("./icon.jpg");
+}
